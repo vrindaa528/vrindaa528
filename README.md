@@ -73,6 +73,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vrindaa528&theme=tokyonight" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrindaa528&theme=tokyonight"/>
+</p>
+
+
 <br/>
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
