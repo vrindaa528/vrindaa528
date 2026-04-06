@@ -76,12 +76,6 @@
   <img src="https://streak-stats.demolab.com?user=vrindaa528&theme=tokyonight" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vrindaa528&theme=tokyonight"/>
-</p>
-
-
-<br/>
 <h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vrindaa528&theme=2077" height="180em" />
