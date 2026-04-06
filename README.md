@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=vrindaa528&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-
-</p>
-- <p align="center">
-  🌱 I’m currently learning **Backend and python framworks ,also andriod development**
-  💬 Ask me about **react,js,ui/ux and ideas for startup**
-  📫 How to reach me **v1486132@gmail.com**
-  ⚡ Fun fact **I am curious about everything happening around**
-</p>
+ <p align="center">
+ 🌱 I’m currently learning Backend development, Python frameworks, and Android development.
+<p align="center">
+💬 Ask me about React, JavaScript, UI/UX, and startup ideas.
+<p align="center">
+  📫 How to reach me: v1486132@gmail.com
+<p align="center">
+⚡ Fun fact: I’m curious about everything happening around me.
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
