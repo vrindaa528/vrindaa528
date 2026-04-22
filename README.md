@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrinda Khandelwal</h1>
-<h3 align="center">A passionate frontend developer with engaging interests and exploring vision.</h3>
+<h3 align="center">A passionate fullstack developer with engaging interests and exploring vision.</h3>
 <p align="center">
   <img src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="500" alt="dev gif"/>
 </p>
